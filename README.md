@@ -115,4 +115,4 @@ sg-jobs-analytics/
 
 - ✅ `app.py` — Streamlit dashboard (5 tabs, dark theme, 16px+ fonts)
 - ✅ `requirements.txt` + `.streamlit/config.toml`
-- ✅ `environment.yml` + `.streamlit/config.toml`
+- ✅ `environment.yml` - Conda Environment config
