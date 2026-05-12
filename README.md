@@ -55,6 +55,7 @@ sg-jobs-analytics/
 ├── data/
 │   └── sgJobData.db          # DuckDB database (1,048,585 rows)
 ├── requirements.txt          # Python dependencies
+├── environment.yml           # Conda Environment
 └── .streamlit/
     └── config.toml           # Dark theme configuration
 ```
@@ -108,3 +109,4 @@ sg-jobs-analytics/
 
 - ✅ `app.py` — Streamlit dashboard (5 tabs, dark theme, 16px+ fonts)
 - ✅ `requirements.txt` + `.streamlit/config.toml`
+- ✅ `environment.yml` + `.streamlit/config.toml`
