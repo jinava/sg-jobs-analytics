@@ -20,7 +20,7 @@ NTU Data Coaching Programme · May 2024
 
 ```bash
 # 1. Clone repo
-git clone [github.com/jinava/sg-jobs-analytics](https://github.com/jinava/sg-jobs-analytics.git)
+git clone https://github.com/jinava/sg-jobs-analytics.git
 cd sg-jobs-analytics
 
 # 2. Install dependencies
@@ -31,12 +31,13 @@ pip install -r requirements.txt
 
 # 4. Run dashboard
 streamlit run app.py
-# Open: [localhost:8501](http://localhost:8501)
+  Open: [localhost:8501](http://localhost:8501)
 
 Or
 
 # 5. Run Online
-# Open: [sg-jobs-analytics.streamlit.app](https://sg-jobs-analytics.streamlit.app/)
+  Open: [sg-jobs-analytics.streamlit.app](https://sg-jobs-analytics.streamlit.app)
+
 ```
 
 ---
