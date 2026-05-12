@@ -31,12 +31,12 @@ pip install -r requirements.txt
 
 # 4. Run dashboard
 streamlit run app.py
-  Open: [localhost:8501](http://localhost:8501)
+# Open: http://localhost:8501
 
 Or
 
 # 5. Run Online
-  Open: [sg-jobs-analytics.streamlit.app](https://sg-jobs-analytics.streamlit.app)
+# Open: https://sg-jobs-analytics.streamlit.app
 
 ```
 
